@@ -1,0 +1,41 @@
+[
+    {
+        "name" : "Virat Kohli",
+        "age": "23",
+        "height":"5_7",
+        "gender":"male",
+        "occupation":"cricketer"
+    },
+
+    {
+        "name" : "Amitabh Bachan",
+        "age": "74",
+        "height":"6_6",
+        "gender":"male",
+        "occupation":"actor"
+    },
+
+    {
+        "name" : "Narendra Modi",
+        "age": "70",
+        "height":"5_8",
+        "gender":"male",
+        "occupation":"Politician"
+    },
+
+    {
+        "name" : "Crisitiano Ronaldo",
+        "age": "32",
+        "height":"5_7",
+        "gender":"male",
+        "occupation":"footballer"
+    },
+
+    {
+        "name" : "Shah Rukh Khan",
+        "age": "55",
+        "height":"5_8",
+        "gender":"male",
+        "occupation":"Actor"
+    }
+]
